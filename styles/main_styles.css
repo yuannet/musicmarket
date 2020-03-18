@@ -1267,3 +1267,8 @@ section
 {
 	color: #ff3500;
 }
+
+
+a#the_menu {
+	padding: 0px;
+  }
